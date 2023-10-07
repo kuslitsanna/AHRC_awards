@@ -1,0 +1,14 @@
+name: ahrc_grants_topic_browser
+title: ahrc_grants_topic_browser
+username:
+account: pinkviolas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10115208
+bundleId: 7775240
+url: https://pinkviolas.shinyapps.io/ahrc_grants_topic_browser/
+when: 1696683280.15806
+lastSyncTime: 1696683280.1581
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|analysis.R|backup_workspace_preprocess_1.RData|backup_workspace_preprocess_2.RData|backup_workspace_seeded_model.RData|backup_workspace_unseeded_model_1.RData|backup_workspace_unseeded_model_2.RData|CPI_index.csv|data_backup1.RData|preprocess.R|seeded_model.R|shiny.Rmd|slda1_topics.csv|slda2_topics.csv|topic_library.txt|unseeded_model.R
